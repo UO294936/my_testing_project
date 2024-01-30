@@ -1,0 +1,5 @@
+<<<<<<<<<< HEAD
+This file is going to give us problems
+=========================
+I added a test file now to the local repositioryy
+>>>>> I added a test file
