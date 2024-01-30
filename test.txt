@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 <<<<<<<<<< HEAD
 This file is going to give us problems
 =========================
 I added a test file now to the local repositioryy
 >>>>> I added a test file
+=======
+Test 
+>>>>>>> e53f7d5df73f2c7f77fd812d27cee11a7c9fc3be
